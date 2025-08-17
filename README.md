@@ -1,4 +1,4 @@
-![Manuela Banner](https://ruta-de-tu-imagen/banner.png)
+![Logo](https://raw.githubusercontent.com/Manu2480/Manu2480/main/logo%20github%20hd.png)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, soy Manuela</h2>
 
